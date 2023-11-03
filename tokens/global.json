@@ -1,0 +1,10 @@
+{
+  "primary": {
+    "default": {
+      "button": {
+        "value": "#363ce0",
+        "type": "color"
+      }
+    }
+  }
+}
